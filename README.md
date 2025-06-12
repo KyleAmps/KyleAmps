@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KyleAmps
 - 👀 I’m interested in music, mathematics, philosophy, politics, and the beat goes on
-- 🌱 I’m currently learning python on the side whilst studying a degree in maths. 
+- 🌱 I’m currently learning python and have completed a mathematics degree. 
 - 💞️ I’m looking to collaborate on...........
 - 📫 How to reach me ...
 
